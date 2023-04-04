@@ -1607,7 +1607,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: consolas, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif !important;
+  font-family: PingFang SC, consolas, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -10969,7 +10969,7 @@ body:has(.post-bg) #he-plugin-simple .s-sticker div {
   font-size: 0 !important;
 }
 .wv-lt-refresh a::after {
-  content: "安知鱼和风";
+  content: "和风天气";
   font-size: small !important;
 }
 .vw-f-cell a,
